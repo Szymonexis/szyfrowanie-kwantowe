@@ -33,3 +33,5 @@ In red is the part of the algo which can be sped up by Quantum computers
 There where 82 proposals and 4 (3 of them use lattices) where chosen as Q-computer safe algorithms.
 
 # How do these work (lattices - (polski: sieci))?
+
+[Watch this: "How Quantum Computers Break The Internet... Starting Now" - Veritasium](https://www.youtube.com/watch?v=-UrdExQW0cs)
