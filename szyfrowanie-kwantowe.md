@@ -2,9 +2,26 @@
 marp: true
 theme: default
 size: 16:9
+math: mathjax
 ---
 
 # Szyfrowanie Kwantowe
+
+---
+
+# Co to są kwanty? Co to są kubity?
+
+**Bit** - jest to najmniejsza wartosc informacji w informatyce _klasycznej_. Jej wartoscia moze byc $0$ albo $1$.
+
+**Kubit** - jest to najmniejsza wartosc informacji w unformatyce _kwantowej_. Przyjmuje wartosci miedzy superpozycja $(1, 0)$ a $(0, 1)$ a po zapadnieciu sie stanu kwanowego wartosci te sa $1$ albo $0$. Kubity mozna tez ze soba laczyc poprzez splatanie kwantowe.
+
+---
+
+# Co to superpozycja?
+
+Roznice miedzy bitem a kubitem moznaby wytlumaczyc ponizszym porownaniem:
+
+> To jak kiedy próbujesz się zdecydować, czy chcesz jeść lody truskawkowe czy czekoladowe, i ktoś mówi, że możesz mieć trochę obu na raz. Dzięki temu komputery kwantowe mogą rozwiązywać trudne problemy szybciej niż zwykłe komputery, bo patrzą na wiele możliwości naraz, a nie tylko na jedną.
 
 ---
 
@@ -12,6 +29,10 @@ size: 16:9
 
 - Technologia kryptograficzna wykorzystująca mechanikę kwantową
 - Zapewnia bezpieczne przechowywanie i przesyłanie informacji
+
+---
+
+# Dlaczego potrzebujemy szyfrowania kwantowego
 
 ---
 
@@ -57,6 +78,5 @@ Szyfrowanie kwantowe oferuje obiecującą ścieżkę do bezpieczeństwa informac
 
 # Dziekujemy za uwage :3
 
-- Kamila Kacprzak
 - Szymon Jacoń
 - Szymon Kaszuba-Gałka
