@@ -80,3 +80,5 @@ Szyfrowanie kwantowe oferuje obiecującą ścieżkę do bezpieczeństwa informac
 
 - Szymon Jacoń
 - Szymon Kaszuba-Gałka
+
+dupa
