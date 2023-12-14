@@ -32,7 +32,7 @@ W mechanice kwantowej cząstki mogą istnieć w wielu stanach jednocześnie. To 
 
 ---
 
-# Superpozycja
+# Superpozycja c.d.
 
 Kolokwialnie rzecz ujmując superpozycję, można przedstawić przy pomocy poniższego problemu:
 
@@ -61,7 +61,7 @@ Jeśli bardzo precyzyjnie zmierzymy pozycję cząstki, to nasza pewność co do 
 
 ---
 
-# Zasada nieoznaczoności Heisenberga cd.
+# Zasada nieoznaczoności Heisenberga c.d.
 
 W skrócie zasada nieoznaczoności mówi nam, że istnieje pewne zamieszanie, czyli niepewność związana z jednoczesnym pomiarowaniem niektórych właściwości cząstek, i nie ma możliwości całkowitego wyeliminowania tego zamieszania.
 
@@ -116,7 +116,7 @@ Szyfrowanie kwantowe wykorzystuje unikalne właściwości mikroświata kwantoweg
 
 ---
 
-# Zastosowania i Problemy:
+# Zastosowania i problemy
 
 - **Kwantowa dystrybucja klucza (QKD)**
 - **Model ograniczonego i zakłóconego przechowywania kwantowego**
@@ -124,15 +124,15 @@ Szyfrowanie kwantowe wykorzystuje unikalne właściwości mikroświata kwantoweg
 
 ---
 
-# Kwantowa dystrybucja klucza (QKD)
+# Kwantowa Dystrybucja Klucza (QKD)
 
-Kwantowa dystrybucja klucza (QKD) to zaawansowana metoda bezpiecznego przesyłania tajnych kluczy do szyfrowania informacji między dwoma stronami. Podstawowym celem QKD jest umożliwienie dwóm stronom komunikacji ustalenia tajnego klucza w sposób, który jest odporny na przechwycenie przez potencjalnego przeciwnika.
+Kwantowa dystrybucja klucza (QKD - *Quantum Key Distribution*) to zaawansowana metoda bezpiecznego przesyłania tajnych kluczy do szyfrowania informacji między dwoma stronami. Podstawowym celem QKD jest umożliwienie dwóm stronom komunikacji ustalenia tajnego klucza w sposób, który jest odporny na przechwycenie przez potencjalnego przeciwnika.
 
 Proces QKD wykorzystuje zasady fizyki kwantowej, takie jak zasada nieoznaczoności Heisenberga i splątanie kwantowe.
 
 ---
 
-# Kwantowa dystrybucja klucza (QKD)
+# Kwantowa Dystrybucja Klucza (QKD) c.d.
 
 Oto ogólny sposób działania QKD w prostych słowach:
 
@@ -177,7 +177,7 @@ Model ograniczonego i zakłóconego przechowywania kwantowego mówi nam, że w p
 
 ---
 
-# Wyzwania:
+# Wyzwania
 
 - **Zasięg:** Komunikacja kwantowa na dużą skalę jest trudna do realizacji z powodu strat sygnału kwantowego (znanych jako dekoherencja) w kanałach transmisyjnych, takich jak światłowody.
 
@@ -253,7 +253,7 @@ Matematycznie, ∣+⟩ jest zapisywany jako średnia ważona - z równymi wagami
 
 ---
 
-# Podsumowanie:
+# Podsumowanie
 
 Szyfrowanie kwantowe oferuje obiecującą ścieżkę do bezpieczeństwa informacji w erze komputacji kwantowej. Chociaż technologia ta jest wciąż w fazie rozwoju, jej zdolność do zapewnienia bezpieczeństwa komunikacji jest niezrównana w porównaniu z klasyczną kryptografią.
 
