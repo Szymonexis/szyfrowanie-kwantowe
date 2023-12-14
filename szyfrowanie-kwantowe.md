@@ -14,9 +14,7 @@ math: mathjax
 
 **Bit** - to najmniejsza jednostka informacji w informatyce _klasycznej_. Przyjmuje wartości $0$ albo $1$.
 
-**Kubit** - to najmniejsza jednostka informacji w informatyce _kwantowej_. Przyjmuje wartości pomiędzy superpozycją $(1,
-0)$ a $(0, 1)$, a po pomiarze stanu kwantowego przyjmuje jedną z wartości $1$ lub $0$. Kubity można również łączyć
-poprzez splatanie kwantowe.
+**Kubit** - to najmniejsza jednostka informacji w informatyce _kwantowej_. Przyjmuje wartości pomiędzy superpozycją $(1, 0)$ a $(0, 1)$, a po pomiarze stanu kwantowego przyjmuje jedną z wartości $1$ lub $0$. Kubity można również łączyć poprzez splatanie kwantowe.
 
 ---
 
@@ -229,8 +227,6 @@ Matematycznie, ∣+⟩ jest zapisywany jako średnia ważona - z równymi wagami
 
 (Tylko dla |+⟩ i |-⟩) Dzielnik sqrt_2 jest potrzebny do 'normalizacji' stanu, co oznacza, że całkowite prawdopodobieństwo znalezienia cząstki w jednym z tych stanów musi być równe 1. W mechanice kwantowej suma kwadratów amplitud - w tym przypadku wag - musi równać się 1.
 -->
-
-<!-- @TODO: Jacon, czy tlumaczyc matematyke za polaryzacja kwantow i pokazac przyklady polaryzacji swiatla czy lekki overkill? -->
 
 ---
 
