@@ -20,7 +20,7 @@ math: mathjax
 
 # Kluczowe pojęcia
 
-1. **Superpozycja:**
+1. **Superpozycja**
 2. **Zasada nieoznaczoności Heisenberga**
 3. **Splątanie kwantowe**
 
