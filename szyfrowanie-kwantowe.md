@@ -10,6 +10,8 @@ math: mathjax
 
 ---
 
+<!-- @TODO: Szymon Jacon -->
+
 # Co to są kwanty? Co to są kubity?
 
 **Bit** - to najmniejsza jednostka informacji w informatyce _klasycznej_. Przyjmuje wartości $0$ albo $1$.
@@ -18,7 +20,9 @@ math: mathjax
 
 ---
 
-# Kluczowe pojęcia
+<!-- @TODO: Szymon Jacon -->
+
+# Kluczowe pojęcia mechaniki kwantowej
 
 1. **Superpozycja**
 2. **Zasada nieoznaczoności Heisenberga**
@@ -26,11 +30,15 @@ math: mathjax
 
 ---
 
+<!-- @TODO: Szymon Jacon -->
+
 # Superpozycja
 
 W mechanice kwantowej cząstki mogą istnieć w wielu stanach jednocześnie. To zjawisko, znane jako superpozycja, umożliwia kodowanie znacznie większej ilości informacji na pojedynczym kubicie (podstawowej jednostce informacji kwantowej) w porównaniu z bitami w klasycznym komputerze.
 
 ---
+
+<!-- @TODO: Szymon Jacon -->
 
 # Superpozycja c.d.
 
@@ -53,6 +61,8 @@ Oraz ci co jednoczenie rozumieją i nie rozumieją mechaniki kwantowej
 
 ---
 
+<!-- @TODO: Szymon Jacon -->
+
 # Zasada nieoznaczoności Heisenberga
 
 Zasada nieoznaczoności Heisenberga to pomysł w fizyce kwantowej, który mówi nam, że istnieje pewne naturalne ograniczenie dotyczące tego, jak dokładnie możemy jednocześnie zmierzyć pewne właściwości cząstki. Konkretnie chodzi o pozycję i pęd cząstki.
@@ -61,6 +71,8 @@ Jeśli bardzo precyzyjnie zmierzymy pozycję cząstki, to nasza pewność co do 
 
 ---
 
+<!-- @TODO: Szymon Jacon -->
+
 # Zasada nieoznaczoności Heisenberga c.d.
 
 W skrócie zasada nieoznaczoności mówi nam, że istnieje pewne zamieszanie, czyli niepewność związana z jednoczesnym pomiarowaniem niektórych właściwości cząstek, i nie ma możliwości całkowitego wyeliminowania tego zamieszania.
@@ -68,7 +80,7 @@ W skrócie zasada nieoznaczoności mówi nam, że istnieje pewne zamieszanie, cz
 Tę zasadę opisuje wzór:
 
 $$
-\Delta x\Delta p_{x}\geq \dfrac{\hbar }{2}
+\Delta{x}\Delta{p_{x}} \geq \dfrac{\hbar}{2}
 $$
 
 <!--
@@ -78,10 +90,23 @@ $$
 
 Heisenberg jedzie samochodem i zatrzymuje go policja.
 Policjant pyta się go: "Wie Pan ile Pan jechał?",
-na co ten odpowiada: "Nie, ale za to przynajmniej wiem gdzie jestem
+na co ten odpowiada: "Nie, ale za to przynajmniej wiem gdzie jestem"
+
+Wzor:
+\Delta x - nieokreslonosc pomiaru polozenia
+\Delta p_{x} - nieokreslonosc pomiaru polozenia
+
+Metafora:
+Robienie zdjecia obiektom w ruchu.
+
+Otworzenie migawki na krotko pozwala nam powiedziec z duza dokladnoscia pozycje obiektu ale nie jestesmy z tego zdjecia wyciagnac informacji o dokladnej predkosci.
+
+Otworzenie migawki na dlugo pozwala nam powiedziec z duza dokladnoscia predkosc pojazdu ale nie jestesmy z tego zdjecia wyciagnac informacji o dokladnej pozycji.
 -->
 
 ---
+
+<!-- @TODO: Szymon Jacon -->
 
 # Splątanie kwantowe
 
@@ -91,12 +116,16 @@ Co to oznacza? Jeśli wykonasz pomiar na jednej z tych splątanych cząstek, to 
 
 ---
 
+<!-- @TODO: Szymon Jacon -->
+
 # Splątanie kwantowe c.d.
 
 Einstein nazwał to upiornym działaniem na odległość, ponieważ wydawało mu się to niematerialne i nieintuicyjne. Jednak eksperymenty potwierdzające splątanie kwantowe były wielokrotnie przeprowadzane i potwierdzają, że jest to rzeczywiste zjawisko w świecie kwantowym.
 
 <!--
 @TODO
+
+Szymon Kaszuba-Galka - ZOSTAW MOJ ZART
 
 ŻART
 
@@ -108,6 +137,8 @@ nie ważne gdzie we wszechświecie jest
 
 ---
 
+<!-- @TODO: Szymon Kaszuba-Galka -->
+
 # Co to jest Szyfrowanie Kwantowe?
 
 Szyfrowanie kwantowe to zaawansowana forma bezpiecznej komunikacji, która wykorzystuje zasady fizyki kwantowej, aby zabezpieczyć przesyłane informacje. Głównym celem jest ochrona informacji przed przechwyceniem i nieautoryzowanym dostępem, nawet przez potężne komputery, które mogą próbować złamać tradycyjne metody szyfrowania.
@@ -116,7 +147,9 @@ Szyfrowanie kwantowe wykorzystuje unikalne właściwości mikroświata kwantoweg
 
 ---
 
-# Zastosowania i problemy
+<!-- @TODO: Szymon Jacon -->
+
+# Zastosowania i problemy Szyfrowania Kwantowego
 
 - **Kwantowa dystrybucja klucza (QKD)**
 - **Model ograniczonego i zakłóconego przechowywania kwantowego**
@@ -124,13 +157,17 @@ Szyfrowanie kwantowe wykorzystuje unikalne właściwości mikroświata kwantoweg
 
 ---
 
+<!-- @TODO: Szymon Kaszuba-Galka -->
+
 # Kwantowa Dystrybucja Klucza (QKD)
 
-Kwantowa dystrybucja klucza (QKD - *Quantum Key Distribution*) to zaawansowana metoda bezpiecznego przesyłania tajnych kluczy do szyfrowania informacji między dwoma stronami. Podstawowym celem QKD jest umożliwienie dwóm stronom komunikacji ustalenia tajnego klucza w sposób, który jest odporny na przechwycenie przez potencjalnego przeciwnika.
+Kwantowa dystrybucja klucza (QKD - _Quantum Key Distribution_) to zaawansowana metoda bezpiecznego przesyłania tajnych kluczy do szyfrowania informacji między dwoma stronami. Podstawowym celem QKD jest umożliwienie dwóm stronom komunikacji ustalenia tajnego klucza w sposób, który jest odporny na przechwycenie przez potencjalnego przeciwnika.
 
 Proces QKD wykorzystuje zasady fizyki kwantowej, takie jak zasada nieoznaczoności Heisenberga i splątanie kwantowe.
 
 ---
+
+<!-- @TODO: Szymon Kaszuba-Galka -->
 
 # Kwantowa Dystrybucja Klucza (QKD) c.d.
 
@@ -167,15 +204,20 @@ Obie strony monitorują transmisję kwantową. Jeśli ktokolwiek próbuje przech
 
 Po przesłaniu cząsteczek obie strony porównują swoje wyniki i odrzucają ewentualne próby ingerencji. To, co pozostaje, staje się tajnym kluczem, który może być używany do szyfrowania i deszyfrowania komunikacji.
 
-Kwantowa dystrybucja klucza zapewnia bardzo silne zabezpieczenie, ponieważ ewentualne próby przechwycenia klucza są łatwo dostrzegalne. To sprawia, że QKD jest potencjalnie bardziej bezpieczne niż tradycyjne metody szyfrowania, które mogą być podatne na zaawansowane ataki komputerowe. -->
+Kwantowa dystrybucja klucza zapewnia bardzo silne zabezpieczenie, ponieważ ewentualne próby przechwycenia klucza są łatwo dostrzegalne. To sprawia, że QKD jest potencjalnie bardziej bezpieczne niż tradycyjne metody szyfrowania, które mogą być podatne na zaawansowane ataki komputerowe.
+-->
 
 ---
+
+<!-- @TODO: Szymon Jacon -->
 
 # Model ograniczonego i zakłóconego przechowywania kwantowego
 
 Model ograniczonego i zakłóconego przechowywania kwantowego mówi nam, że w praktyce przechowywanie informacji w systemach kwantowych jest ograniczone, a także podatne na zakłócenia czyli niepewności wynikające z oddziaływań z otoczeniem. Oznacza to, że utrzymanie dokładnych i długotrwałych kwantowych informacji jest trudne z powodu różnych czynników, takich jak fluktuacje środowiska, które mogą wprowadzać błędy i utratę informacji.
 
 ---
+
+<!-- @TODO: Szymon Jacon -->
 
 # Wyzwania
 
@@ -186,6 +228,8 @@ Model ograniczonego i zakłóconego przechowywania kwantowego mówi nam, że w p
 - **Koszt:** Obecne systemy kwantowe są kosztowne i zazwyczaj wymagają warunków pracy w niskich temperaturach lub próżni, co komplikuje ich wdrożenie na dużą skalę.
 
 ---
+
+<!-- @TODO: Szymon Kaszuba-Gałka -->
 
 # Przykład użycia (QKD)
 
@@ -199,6 +243,8 @@ Najbardziej znanym przykładem jest protokół **BB84**, opracowany przez Charle
      - bazę diagonalną $(2)$
 
 ---
+
+<!-- @TODO: Szymon Kaszuba-Gałka -->
 
 # Przykład użycia (QKD) c.d.
 
@@ -230,6 +276,8 @@ Matematycznie, ∣+⟩ jest zapisywany jako średnia ważona - z równymi wagami
 
 ---
 
+<!-- @TODO: Szymon Kaszuba-Gałka -->
+
 # Przykład użycia (QKD) c.d.
 
 2. **Wysyłanie Stanów Kwantowych**:
@@ -242,6 +290,8 @@ Matematycznie, ∣+⟩ jest zapisywany jako średnia ważona - z równymi wagami
 
 ---
 
+<!-- @TODO: Szymon Kaszuba-Gałka -->
+
 # Przykład użycia (QKD) c.d.
 
 4. **Porównanie Baz**:
@@ -252,6 +302,8 @@ Matematycznie, ∣+⟩ jest zapisywany jako średnia ważona - z równymi wagami
    - Aby sprawdzić, czy nie doszło do podsłuchu, Alicja i Bob mogą porównać część swoich bitów. Jeśli bity są identyczne, mogą być pewni, że klucz jest bezpieczny. Klucz ten może być następnie użyty do zaszyfrowania komunikacji za pomocą klasycznego szyfrowania symetrycznego.
 
 ---
+
+<!-- @TODO: Szymon Kaszuba-Gałka -->
 
 # Podsumowanie
 
