@@ -129,7 +129,8 @@ Szymon Kaszuba-Galka - ZOSTAW MOJ ZART
 
 ŻART
 
-Nie jest tak ciężko zrozumieć na czym polega splątanie. Przedstawie przykład:
+Einstein nie chcial splatania przyjac do wiadomosci a ja uwazam ze jest ono proste - wystarczy wytlumaczyc na skarpetach.
+
 Skarpety są w parach. Jeśli założysz jedną na swoją lewą stopę,
 to natychmiast ta druga stanie się prawą skarpetką,
 nie ważne gdzie we wszechświecie jest
